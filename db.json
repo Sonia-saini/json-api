@@ -31,7 +31,7 @@
     "edition": "2021",
     "publisher": "Bloomsbury",
     "cost": 300,
-    "borrowed": false
+    "borrowed": true
   }
     ]
 }
