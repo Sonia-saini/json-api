@@ -1,5 +1,21 @@
 {
-    "quizs": [
-       
+  "quizs": [
+    { "id":2,
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What colour is the circle on the Japanese flag?",
+      "correct_answer": "Red",
+      "incorrect_answers": ["White", "Yellow", "Black"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the 15th letter of the Greek alphabet?",
+      "correct_answer": "Omicron (&Omicron;)",
+      "incorrect_answers": ["Sigma (&Sigma;)", "Pi (&Pi;)", "Nu (&Nu;)"],
+      "id": 1
+    }
   ]
 }
